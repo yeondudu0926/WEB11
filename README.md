@@ -3,7 +3,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>WEB - HTML</title>
   </head>
   <body>
     <h2>WEB</a></h2>
